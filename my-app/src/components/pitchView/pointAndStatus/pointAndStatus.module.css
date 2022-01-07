@@ -1,0 +1,97 @@
+.container {
+    width:30%;
+    margin-left: 20%;
+}
+.pointHeader {
+    margin-top: 20px;
+    width: 150%;
+}
+.h5 {
+    margin-left: 130%;
+    width: 150px;
+}
+.gameWeek {
+    font-weight: bold;
+}
+.pointHeaderText {
+    font-weight: bold;
+    width: 150%;
+}
+.lineBreak {
+    width: 333%;
+}
+.statusBoxContainer {
+    display: flex;
+    border-style:none;
+    width: 333%;
+    justify-content: center;
+    background-color: rgba(202, 202, 202, 0.911);
+    margin-bottom: 15px;
+}
+.item1 {
+    width: 45%;
+    border-style:none;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color:white;
+}
+.item2 {
+    width: 35%;
+    border-style: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+.item3 {
+    width: 35%;
+    border-style: none;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+.box1line1 {
+    text-align: center;
+    margin-top: 15px;
+    font-weight: 800;
+}
+.box1line2 {
+    text-align: center;
+    margin-top: 15px;
+    font-weight: 800;
+    color: red;
+}
+.spanline1 {
+    float: right;
+    font-size: 90%;
+    margin-right: 5px;
+}
+.spanline2 {
+    float: right;
+    color: red;
+    font-weight: 500;
+    font-size: 90%;
+    margin-right: 5px;
+}
+.box2line1 {
+    font-size: 90%;
+    margin-left: 5px;
+}
+.box2line2 {
+    font-size: 90%;
+    margin-left: 5px;
+}
+.box3line1 {
+    font-size: 90%;
+    margin-left: 5px;
+}
+.box3line2 {
+    font-size: 90%;
+    margin-left: 5px;
+}
+.boxlinebreak {
+    width: 86%;
+    margin-left: 7%;
+}

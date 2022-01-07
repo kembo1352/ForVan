@@ -1,0 +1,22 @@
+.uploadImage {
+  margin-bottom: 30px;
+}
+.img {
+  width: 200px;
+  height: 150px;
+}
+
+.info {
+  margin-top: 20px;
+}
+.label {
+    font-weight: bolder;
+    font-size: x-large;
+}
+.hr {
+    padding-top: 0px;
+}
+.status {
+    margin-bottom: -10px;
+}
+

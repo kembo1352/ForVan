@@ -1,0 +1,9 @@
+.conatiner {
+    width: 100px
+}
+.infocontainer {
+    width: max-content;
+}
+.searchcontainer {
+    width: fit-content;
+}

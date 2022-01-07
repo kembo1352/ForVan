@@ -1,0 +1,48 @@
+{GKs?.map((GK) =>
+              GK ? (
+                <div className={styles.buttonLineContainer}>
+                  <div className={styles.playerOptions}>
+                    <input
+                      className={styles.swapButton}
+                      onClick={() => deleteGKPlayer(GKs, GK)}
+                      type="image"
+                      src="/icon/close.svg"
+                    />
+                    <input
+                      className={styles.swapButton}
+                      type="image"
+                      onClick={() => handleOpenPlayerModal(GK)}
+                      src="/icon/info-lg.svg"
+                    />
+                  </div>
+                  <img
+                    className={styles.xamloz}
+                    src="/jersey/HaNoiFcResize.png"
+                  />
+                  <p className={styles.playerName} variant="primary">
+                    {GK?.short_name}
+                  </p>
+                </div>
+              ) : (
+                <div className={styles.buttonLineContainer}>
+                  <div className={styles.playerOptions}>
+                    <input
+                      className={styles.swapButton}
+                      // onClick={() => deletePlayer(GK)}
+                      type="image"
+                      src="/icon/close.svg"
+                    />
+                    <input
+                      className={styles.swapButton}
+                      type="image"
+                      // onClick={() => handleOpenPlayerModal(GK)}
+                      src="/icon/info-lg.svg"
+                    />
+                  </div>
+                  <img className={styles.xamloz} src="/jersey/noneplayer.jpg" />
+                  <p className={styles.playerName} variant="primary">
+                    None
+                  </p>
+                </div>
+              )
+            )}

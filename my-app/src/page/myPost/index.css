@@ -1,0 +1,40 @@
+.user {
+  border-style: none;
+  display: flex;
+  justify-content: center;
+  background-color: red;
+  background-image: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+  margin-bottom: 10px;
+  margin-top: 30px;
+}
+.yourpost {
+  font-size: xx-large;
+  font-weight: bolder;
+}
+.title {
+  font-weight: 900;
+  font-size: xx-large;
+}
+.postPreview {
+  margin-top: 20px;
+  font-weight: 600;
+  font-size: large;
+}
+.button {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+.li {
+  float: left;
+}
+.buttonContainer {
+  margin-bottom: 30px;
+}
+.postPreviewShowPage {
+  color: black;
+}
+.titleShowPage {
+  color: black;
+}

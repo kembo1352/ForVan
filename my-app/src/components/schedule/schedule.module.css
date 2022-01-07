@@ -1,0 +1,116 @@
+.container {
+    /* width:30%; */
+    margin-left: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%
+}
+.scheduleImgContainer {
+    margin-left: 43%;
+    width: 500px;
+}
+.scheduleImg {
+    height: 15%;
+    width: 15%;
+}
+.spanLogo {
+    font-weight: 800;
+    font-size: 150%;
+}
+.scheduleTimeContainer {
+    margin-top: 4%;
+    text-align: center;
+    margin-left: 30%;
+    width: 300px;
+    margin-bottom: 4%;
+}
+.scheduleTime {
+    width: 200px;
+    font-weight: 500;
+}
+.line3TextContainer {
+    text-align: center;
+    margin-left: 26%;
+    margin-bottom: 3%;
+}
+.line3Text {
+    font-weight: lighter;
+}
+.spanLine3 {
+    font-weight: bold;
+    color: grey;
+}
+.scheduleTimeContainer2 {
+    border-style: none;
+    background-color: rgb(224, 222, 222);
+    text-align: center;
+    width: 130%;
+}
+.scheduleTime2 {
+    margin: 5%;
+    font-weight: 700;
+    color: black;
+}
+.resultContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    width: 130%;
+}
+.team1ResultContainer {
+    border-style: none;
+    background-color: rgb(42, 3, 78);
+    width: 5%;
+    margin-right: 2%;
+}
+.team2ResultContainer {
+    border-style: none;
+    background-color: rgb(42, 3, 78);
+    width: 5%;
+    margin-left: 2%;
+}
+.team1Result {
+    color: cornsilk;
+    text-align: center;
+    font-weight: bolder;
+}
+.team2Result {
+    color: cornsilk;
+    text-align: center;
+    font-weight: bolder;
+}
+.team1Logo {
+    width: 100%;
+    height: 100%;
+    /* width: fit-content; */
+}
+.team2Logo {
+    width: 100%;
+    height: 100%;
+}
+.team1LogoContainer {
+    width: 10%;
+    height: 10%;
+    margin-right: 3%;
+}
+.team2LogoContainer {
+    width: 10%;
+    height: 10%;
+    margin-left: 3%;
+}
+.team1 {
+    font-weight: bolder;
+    margin-right: 3%;
+}
+.team2 {
+    font-weight: bolder;
+    margin-left: 3%;
+}
+.lineBreak {
+    width: 130%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.next {
+    margin-left: 1%;
+}

@@ -1,0 +1,31 @@
+.previewImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.author {
+  float: right;
+}
+.container {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.title {
+  font-weight: 900;
+  font-size: xx-large;
+}
+.postPreview {
+  margin-top: 20px;
+  font-weight: 600;
+  font-size: large;
+}
+.postInfo {
+  display: flex;
+}

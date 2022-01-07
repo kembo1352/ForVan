@@ -1,0 +1,109 @@
+.contianer {
+  width: 126%;
+  border-style: solid;
+  margin-top: 10%;
+  border-color: #a1328f;
+  background-color: #a1328f;
+}
+.containerBody {
+  border-style: none;
+  margin: 10px;
+  background-color: white;
+  margin-bottom: 0%;
+}
+.lineBreak {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border: 0.1px;
+  border-radius: 0.1px;
+}
+.statusBox {
+  display: flex;
+  justify-content: space-between;
+  /* width: 240px; */
+}
+.userNameContainer {
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 100%;
+}
+.firstLineText {
+  color: white;
+  font-weight: bold;
+}
+.firstLineTextContainer {
+  margin: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.textline1 {
+  font-weight: bold;
+}
+.imgBox {
+  width: 48px;
+  height: 32px;
+  border-style: solid;
+  border-width: 1px;
+}
+.imgBoxContainer {
+  margin-right: 10px;
+  margin-top: 5px;
+}
+.textline2Container {
+  margin-left: 10px;
+  /* margin-top: 8px;
+    padding-bottom: 0px; */
+}
+.textline2 {
+  font-weight: bold;
+}
+.textline3Container {
+  margin-left: 10px;
+}
+.textline3_2Container {
+  width: 88.47px;
+}
+.containerBodyExtra {
+  border-style: none;
+  height: 6px;
+  width: 80%;
+  background-image: linear-gradient(to right, red, yellow);
+  margin-top: 0%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+}
+.box2logo {
+  height: 110px;
+  width: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.box2logoContainer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.box2text {
+  font-weight: bold;
+}
+.box2textContainer {
+  justify-content: flex-end;
+  flex-direction: row;
+  display: flex;
+}
+.box2Container {
+  justify-content: flex-end;
+  flex-direction: row;
+  display: flex;
+}
+.link {
+  color: black;
+}
+.favoriteClubText {
+  font-weight: bold;
+  float: right;
+  margin-right: 10px;
+}

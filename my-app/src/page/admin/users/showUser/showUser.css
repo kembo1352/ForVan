@@ -1,0 +1,13 @@
+.info {
+  margin-top: 20px;
+}
+.label {
+  font-weight: bolder;
+  font-size: x-large;
+}
+.hr {
+  padding-top: 0px;
+}
+.status {
+  margin-bottom: -10px;
+}
